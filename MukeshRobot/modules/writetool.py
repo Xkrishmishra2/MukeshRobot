@@ -39,7 +39,7 @@ async def handwrite(_, message: Message):
 
     caption = f"""
 sᴜᴄᴇssғᴜʟʟʏ ᴡʀɪᴛᴛᴇɴ ᴛᴇxᴛ 💘
-✨ **ᴡʀɪᴛᴛᴇɴ ʙʏ :** [{𝐊 ‌⃪𝗦𝗣𝗘𝗘𝗗 ༗}](https://t.me/{@Copyrightsremove_bot})
+✨ **ᴡʀɪᴛᴛᴇɴ ʙʏ :** [{@krishbhi}](https://t.me/{@Copyrightsremove_bot})
 🥀 **ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :** {message.from_user.mention}
 """
     await m.delete()
